@@ -1,2 +1,6 @@
 This is a file to be uploaded to a remote repository from a local machine.
+<<<<<<< HEAD
 This is a first change done to the file.
+=======
+This is a second change done to the file.
+>>>>>>> 0adde64879635fbb71834bffdf3277a82d57c0a3
